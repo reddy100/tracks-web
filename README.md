@@ -1,1 +1,1 @@
-Front-end of basic react app that allows you to save paths on a map
+Backend of small react native web app which allows user to save routes in map
